@@ -23,7 +23,7 @@ KUICS의 보안 멘토링 프로젝트는 **팀이 직접 정한 보안 문제�
 
 ## 진행 방식
 
-<picture><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/project-flow-dark.png"><source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/project-flow-light.png"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/project-flow-dark.gif"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/project-flow-light.gif"><img src="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/project-flow-light.png" width="100%" alt="주제 선정 → 탐구·개발과 멘토링 → 중간·최종 성과 공유 → 시연과 최종 발표. 현재 주제 선정 단계."></picture>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/project-flow-light.png"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/project-flow-dark.gif"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/project-flow-light.gif"><img src="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/project-flow-light.png" width="100%" alt="주제 선정 → 탐구·개발과 멘토링 → 중간·최종 성과 공유 → 시연과 최종 발표. 현재 주제 선정 단계."></picture>
 
 1. **주제 선정:** 해결하거나 탐구할 문제, 목표, 범위와 결과물의 형태를 정합니다.
 2. **탐구·개발과 멘토링:** 질문과 시도한 방법을 정리해 멘토에게 공유하고, 피드백과 반영 계획을 기록합니다.
