@@ -4,7 +4,7 @@
 
 <p><a href="https://kuics.korea.ac.kr/">🌐 홈페이지</a> · <a href="https://github.com/KUICS-KU/Project-2026-2">📂 프로젝트</a> · <a href="https://www.instagram.com/kuics.official/">📷 Instagram</a></p>
 
-[프로젝트](#프로젝트) · [진행 방식](#진행-방식) · [일정과 제출](#일정과-제출) · [자료 찾기](#자료-찾기)
+[팀 목록](#프로젝트) · [진행 방식](#진행-방식) · [일정과 제출](#일정과-제출) · [자료 찾기](#자료-찾기)
 
 팀별 보안 주제를 탐구하고 멘토링을 통해 결과물을 만드는 KUICS의 학기 프로젝트입니다.
 
@@ -13,7 +13,7 @@
 현재 모든 팀이 주제를 선정하고 있습니다. 팀 소개에서 구성원·멘토와 공개 자료를 확인하고, 코드 저장소로 이동할 수 있습니다.
 
 <table>
-<thead><tr><th width="650" align="left">프로젝트</th><th width="170" align="left">멘토</th><th width="300" align="left">바로가기</th></tr></thead>
+<thead><tr><th width="400" align="left">프로젝트</th><th width="300" align="left">멘토</th><th width="420" align="left">바로가기</th></tr></thead>
 <tbody>
 <tr><td><strong><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-01">1팀</a></strong><br><sub>주제 선정 중</sub></td><td>이희조</td><td><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-01">팀 소개</a> · <a href="https://github.com/KUICS-KU/2026-2-team-01">코드 ↗</a></td></tr>
 <tr><td><strong><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-02">2팀</a></strong><br><sub>주제 선정 중</sub></td><td>최현상</td><td><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-02">팀 소개</a> · <a href="https://github.com/KUICS-KU/2026-2-team-02">코드 ↗</a></td></tr>
