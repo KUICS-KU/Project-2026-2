@@ -2,7 +2,7 @@
 
 # 3팀 · 보안 멘토링 프로젝트
 
-<p><a href="https://kuics.korea.ac.kr/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/btn-home-dark.png"><img src="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/btn-home-light.png" width="256" alt="KUICS 홈페이지 바로가기"></picture></a></p>
+<p><a href="https://kuics.korea.ac.kr/">🌐 홈페이지</a> · <a href="https://github.com/KUICS-KU/Project-2026-2">📂 프로젝트</a> · <a href="https://www.instagram.com/kuics.official/">📷 Instagram</a></p>
 
 [팀 정보](#팀-정보) · [프로젝트 소개](#프로젝트-소개) · [관련 저장소](#관련-저장소) · [공개 결과물](#공개-결과물)
 

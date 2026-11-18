@@ -2,28 +2,41 @@
 
 # 2026학년도 2학기 보안 멘토링 프로젝트
 
-<p><a href="https://kuics.korea.ac.kr/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/btn-home-dark.png"><img src="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/btn-home-light.png" width="256" alt="KUICS 홈페이지 바로가기"></picture></a></p>
+<p><a href="https://kuics.korea.ac.kr/">🌐 홈페이지</a> · <a href="https://github.com/KUICS-KU/Project-2026-2">📂 프로젝트</a> · <a href="https://www.instagram.com/kuics.official/">📷 Instagram</a></p>
 
 [프로젝트](#프로젝트) · [진행 방식](#진행-방식) · [일정과 제출](#일정과-제출) · [자료 찾기](#자료-찾기)
 
-KUICS의 보안 멘토링 프로젝트는 **팀이 직접 정한 보안 문제를 탐구하고, 멘토링을 통해 아이디어를 발전시켜 결과물을 만드는 활동**입니다. 2026학년도 2학기에 처음 시작하며, 팀별 관심 분야와 역량에 맞춰 연구 주제와 범위를 정합니다.
-
-협업 과정에서 시도한 방법과 개선 사항을 기록하고, 멘토의 피드백을 다음 활동에 반영합니다. 최종 발표에서는 프로젝트의 수행 과정과 성과를 공유하고 시연 가능한 결과물을 선보입니다.
+팀별 보안 주제를 탐구하고 멘토링을 통해 결과물을 만드는 KUICS의 학기 프로젝트입니다.
 
 ## 프로젝트
 
 현재 모든 팀이 주제를 선정하고 있습니다. 팀 소개에서 구성원·멘토와 공개 자료를 확인하고, 코드 저장소로 이동할 수 있습니다.
 
-| 프로젝트 | 프로젝트 |
-| :--- | :--- |
-| **[1팀](projects/team-01/)**<br>주제 선정 중<br><sub>멘토 이희조</sub><br>[팀 소개](projects/team-01/) · [코드](https://github.com/KUICS-KU/2026-2-team-01) | **[2팀](projects/team-02/)**<br>주제 선정 중<br><sub>멘토 최현상</sub><br>[팀 소개](projects/team-02/) · [코드](https://github.com/KUICS-KU/2026-2-team-02) |
-| **[3팀](projects/team-03/)**<br>주제 선정 중<br><sub>멘토 허준범</sub><br>[팀 소개](projects/team-03/) · [코드](https://github.com/KUICS-KU/2026-2-team-03) | **[4팀](projects/team-04/)**<br>주제 선정 중<br><sub>멘토 우승훈</sub><br>[팀 소개](projects/team-04/) · [코드](https://github.com/KUICS-KU/2026-2-team-04) |
-| **[5팀](projects/team-05/)**<br>주제 선정 중<br><sub>멘토 김유승</sub><br>[팀 소개](projects/team-05/) · [코드](https://github.com/KUICS-KU/2026-2-team-05) | **[6팀](projects/team-06/)**<br>주제 선정 중<br><sub>멘토 전유석</sub><br>[팀 소개](projects/team-06/) · [코드](https://github.com/KUICS-KU/2026-2-team-06) |
-| **[7팀](projects/team-07/)**<br>주제 선정 중<br><sub>멘토 박찬암</sub><br>[팀 소개](projects/team-07/) · [코드](https://github.com/KUICS-KU/2026-2-team-07) | **[홈페이지 프로젝트](https://kuics.korea.ac.kr/activity)**<br>팀별 공개 자료<br>[보고서·활동 기록 보기](https://kuics.korea.ac.kr/activity) |
+<table>
+<thead><tr><th width="650" align="left">프로젝트</th><th width="170" align="left">멘토</th><th width="300" align="left">바로가기</th></tr></thead>
+<tbody>
+<tr><td><strong><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-01">1팀</a></strong><br><sub>주제 선정 중</sub></td><td>이희조</td><td><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-01">팀 소개</a> · <a href="https://github.com/KUICS-KU/2026-2-team-01">코드 ↗</a></td></tr>
+<tr><td><strong><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-02">2팀</a></strong><br><sub>주제 선정 중</sub></td><td>최현상</td><td><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-02">팀 소개</a> · <a href="https://github.com/KUICS-KU/2026-2-team-02">코드 ↗</a></td></tr>
+<tr><td><strong><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-03">3팀</a></strong><br><sub>주제 선정 중</sub></td><td>허준범</td><td><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-03">팀 소개</a> · <a href="https://github.com/KUICS-KU/2026-2-team-03">코드 ↗</a></td></tr>
+<tr><td><strong><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-04">4팀</a></strong><br><sub>주제 선정 중</sub></td><td>우승훈</td><td><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-04">팀 소개</a> · <a href="https://github.com/KUICS-KU/2026-2-team-04">코드 ↗</a></td></tr>
+<tr><td><strong><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-05">5팀</a></strong><br><sub>주제 선정 중</sub></td><td>김유승</td><td><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-05">팀 소개</a> · <a href="https://github.com/KUICS-KU/2026-2-team-05">코드 ↗</a></td></tr>
+<tr><td><strong><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-06">6팀</a></strong><br><sub>주제 선정 중</sub></td><td>전유석</td><td><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-06">팀 소개</a> · <a href="https://github.com/KUICS-KU/2026-2-team-06">코드 ↗</a></td></tr>
+<tr><td><strong><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-07">7팀</a></strong><br><sub>주제 선정 중</sub></td><td>박찬암</td><td><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-07">팀 소개</a> · <a href="https://github.com/KUICS-KU/2026-2-team-07">코드 ↗</a></td></tr>
+</tbody>
+</table>
+
+[홈페이지에서 팀별 공개 자료 보기 ↗](https://kuics.korea.ac.kr/activity)
 
 ## 진행 방식
 
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/project-flow-light.png"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/project-flow-dark.gif"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/project-flow-light.gif"><img src="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/project-flow-light.png" width="100%" alt="주제 선정 → 탐구·개발과 멘토링 → 중간·최종 성과 공유 → 시연과 최종 발표. 현재 주제 선정 단계."></picture>
+<details>
+<summary>프로그램 소개</summary>
+
+KUICS의 보안 멘토링 프로젝트는 **팀이 직접 정한 보안 문제를 탐구하고, 멘토링을 통해 아이디어를 발전시켜 결과물을 만드는 활동**입니다. 2026학년도 2학기에 처음 시작하며, 팀별 관심 분야와 역량에 맞춰 연구 주제와 범위를 정합니다.
+
+협업 과정에서 시도한 방법과 개선 사항을 기록하고, 멘토의 피드백을 다음 활동에 반영합니다. 최종 발표에서는 프로젝트의 수행 과정과 성과를 공유하고 시연 가능한 결과물을 선보입니다.
+
+</details>
 
 1. **주제 선정:** 해결하거나 탐구할 문제, 목표, 범위와 결과물의 형태를 정합니다.
 2. **탐구·개발과 멘토링:** 질문과 시도한 방법을 정리해 멘토에게 공유하고, 피드백과 반영 계획을 기록합니다.
