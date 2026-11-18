@@ -1,29 +1,50 @@
-
 [KUICS](https://github.com/KUICS-KU) / [2026-2](https://github.com/KUICS-KU/Project-2026-2) / **6팀**
 
-# 6팀
+# 6팀 · 보안 멘토링 프로젝트
 
 <p><a href="https://kuics.korea.ac.kr/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/btn-home-dark.png"><img src="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/btn-home-light.png" width="256" alt="KUICS 홈페이지 바로가기"></picture></a></p>
 
-**주제 선정 중**
+[팀 정보](#팀-정보) · [프로젝트 소개](#프로젝트-소개) · [관련 저장소](#관련-저장소) · [공개 결과물](#공개-결과물)
 
-멘토: 전유석
+2026학년도 2학기 KUICS 보안 멘토링 프로젝트에 참여하는 6팀입니다. 팀별 보안 주제를 정하고, 멘토의 피드백을 반영하며 탐구·개발과 결과물 정리를 진행합니다.
+
+## 팀 정보
+
+| 항목 | 내용 |
+| :--- | :--- |
+| 상태 | **주제 선정 중** |
+| 멘토 | 전유석 |
+| 팀원 | 백도유 · 이윤서 · 이정민 · 이호경 |
+
+팀·멘토 정보는 [KUICS 홈페이지의 6팀 페이지](https://kuics.korea.ac.kr/activity/projects/7)를 기준으로 정리했습니다.
 
 ## 프로젝트 소개
 
-주제가 확정되면 탐구할 문제와 목표를 소개합니다.
+현재 연구 주제를 선정하는 단계입니다. 주제가 확정되면 탐구할 문제, 달성할 목표, 진행 범위와 결과물의 형태를 이 페이지에 정리합니다.
+
+<details>
+<summary><strong>주제 선정과 멘토링 준비</strong></summary>
+
+1. 팀이 관심 있는 보안 문제와 탐구 이유를 정리합니다.
+2. 활동 기간과 팀 역량을 고려해 목표와 범위를 정합니다.
+3. 코드, 분석 보고서, 실험 또는 시연 등 결과를 보여줄 형태를 정합니다.
+4. 진행 상황·어려운 점·시도한 방법을 정리해 멘토링에서 공유합니다.
+
+멘토링 후에는 받은 피드백과 반영할 내용을 활동보고서에 기록합니다. 전체 일정과 보고서 안내는 [학기 허브](https://github.com/KUICS-KU/Project-2026-2#일정과-제출)에서 확인합니다.
+
+</details>
 
 ## 관련 저장소
 
 | 저장소 | 용도 |
 | :--- | :--- |
-| [2026-2-team-06](https://github.com/KUICS-KU/2026-2-team-06) | 프로젝트 코드·기술 문서 |
+| **[2026-2-team-06](https://github.com/KUICS-KU/2026-2-team-06)** | 프로젝트 구현·실험 코드와 기술 문서 |
 
 ## 공개 결과물
 
-아직 공개된 결과물이 없습니다.
+아직 공개된 결과물이 없습니다. 중간·최종보고서, 발표 자료와 시연 링크는 공개 후 이곳에 연결합니다.
 
-[홈페이지에서 6팀 보기](https://kuics.korea.ac.kr/activity/projects/7)
+[홈페이지에서 6팀 자료 보기 →](https://kuics.korea.ac.kr/activity/projects/7)
 
 ---
 
