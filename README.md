@@ -12,7 +12,7 @@
 
 현재 모든 팀이 주제를 선정하고 있습니다. 팀 소개에서 구성원·멘토와 공개 자료를 확인하고, 코드 저장소로 이동할 수 있습니다.
 
-팀 코드 저장소는 비공개이며, 운영진 승인 후 소속 팀 저장소를 조회할 수 있습니다. [👋 가입 신청](https://docs.google.com/forms/d/e/1FAIpQLSf2lE66Z8wmdQV8bq7mVkKfzKqqMZSPIANJ6N6reI63yEXDsQ/viewform)
+팀 코드 저장소는 비공개이며, 운영진 승인 후 소속 팀 저장소를 조회할 수 있습니다. [👋 가입 신청](https://script.google.com/macros/s/AKfycbwtns7yDOVE-0kfdcy06GR2FuNAZD4lkCInuwqH2ZcmB2r_dSygvrFmn4V6ecztxIOpuA/exec?view=apply)
 
 <table>
 <thead><tr><th width="400" align="left">프로젝트</th><th width="300" align="left">멘토</th><th width="420" align="left">바로가기</th></tr></thead>
