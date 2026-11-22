@@ -17,13 +17,13 @@
 <table>
 <thead><tr><th width="400" align="left">프로젝트</th><th width="300" align="left">멘토</th><th width="420" align="left">바로가기</th></tr></thead>
 <tbody>
-<tr><td><strong><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-01">1팀</a></strong><br><sub>주제 선정 중</sub></td><td>이희조</td><td><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-01">팀 소개</a><br><a href="https://github.com/KUICS-KU/2026-2-team-01">코드 ↗</a></td></tr>
-<tr><td><strong><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-02">2팀</a></strong><br><sub>주제 선정 중</sub></td><td>최현상</td><td><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-02">팀 소개</a><br><a href="https://github.com/KUICS-KU/2026-2-team-02">코드 ↗</a></td></tr>
-<tr><td><strong><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-03">3팀</a></strong><br><sub>주제 선정 중</sub></td><td>허준범</td><td><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-03">팀 소개</a><br><a href="https://github.com/KUICS-KU/2026-2-team-03">코드 ↗</a></td></tr>
-<tr><td><strong><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-04">4팀</a></strong><br><sub>주제 선정 중</sub></td><td>우승훈</td><td><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-04">팀 소개</a><br><a href="https://github.com/KUICS-KU/2026-2-team-04">코드 ↗</a></td></tr>
-<tr><td><strong><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-05">5팀</a></strong><br><sub>주제 선정 중</sub></td><td>김유승</td><td><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-05">팀 소개</a><br><a href="https://github.com/KUICS-KU/2026-2-team-05">코드 ↗</a></td></tr>
-<tr><td><strong><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-06">6팀</a></strong><br><sub>주제 선정 중</sub></td><td>전유석</td><td><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-06">팀 소개</a><br><a href="https://github.com/KUICS-KU/2026-2-team-06">코드 ↗</a></td></tr>
-<tr><td><strong><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-07">7팀</a></strong><br><sub>주제 선정 중</sub></td><td>박찬암</td><td><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-07">팀 소개</a><br><a href="https://github.com/KUICS-KU/2026-2-team-07">코드 ↗</a></td></tr>
+<tr><td><strong><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-01">1팀</a></strong><br><sub>주제 선정 중</sub></td><td>이희조</td><td><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-01">팀 소개</a><br><a href="https://github.com/KUICS-KU/2026-2-team-01#readme">팀 프로젝트 개요 ↗</a></td></tr>
+<tr><td><strong><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-02">2팀</a></strong><br><sub>주제 선정 중</sub></td><td>최현상</td><td><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-02">팀 소개</a><br><a href="https://github.com/KUICS-KU/2026-2-team-02#readme">팀 프로젝트 개요 ↗</a></td></tr>
+<tr><td><strong><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-03">3팀</a></strong><br><sub>주제 선정 중</sub></td><td>허준범</td><td><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-03">팀 소개</a><br><a href="https://github.com/KUICS-KU/2026-2-team-03#readme">팀 프로젝트 개요 ↗</a></td></tr>
+<tr><td><strong><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-04">4팀</a></strong><br><sub>주제 선정 중</sub></td><td>우승훈</td><td><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-04">팀 소개</a><br><a href="https://github.com/KUICS-KU/2026-2-team-04#readme">팀 프로젝트 개요 ↗</a></td></tr>
+<tr><td><strong><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-05">5팀</a></strong><br><sub>주제 선정 중</sub></td><td>김유승</td><td><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-05">팀 소개</a><br><a href="https://github.com/KUICS-KU/2026-2-team-05#readme">팀 프로젝트 개요 ↗</a></td></tr>
+<tr><td><strong><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-06">6팀</a></strong><br><sub>주제 선정 중</sub></td><td>전유석</td><td><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-06">팀 소개</a><br><a href="https://github.com/KUICS-KU/2026-2-team-06#readme">팀 프로젝트 개요 ↗</a></td></tr>
+<tr><td><strong><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-07">7팀</a></strong><br><sub>주제 선정 중</sub></td><td>박찬암</td><td><a href="https://github.com/KUICS-KU/Project-2026-2/tree/main/projects/team-07">팀 소개</a><br><a href="https://github.com/KUICS-KU/2026-2-team-07#readme">팀 프로젝트 개요 ↗</a></td></tr>
 </tbody>
 </table>
 
@@ -86,12 +86,12 @@ KUICS의 보안 멘토링 프로젝트는 **팀이 직접 정한 보안 문제�
 
 ## 자료 찾기
 
-팀 소개는 프로젝트의 목적과 결과를 설명하는 입구이고, 코드 저장소는 구현과 재현을 위한 공간입니다. 관련 저장소가 여러 개면 팀 소개에 각각 연결합니다.
+팀 소개는 프로젝트의 목적과 결과를 설명하는 입구이고, 코드 저장소는 구현과 재현을 위한 공간입니다. 팀 프로젝트 개요에서 소속 팀의 비공개 저장소 목록으로 이동할 수 있습니다.
 
 | 자료 | 위치 |
 | :--- | :--- |
 | 팀·멘토, 주제와 목표 | 위 목록의 **팀 소개** |
-| 구현·실험 코드와 실행 방법 | 각 팀의 **코드 저장소** |
+| 구현·실험 코드와 실행 방법 | 각 팀의 **팀 프로젝트 개요 → 팀 저장소** |
 | 공개 보고서·발표·시연 | 팀 소개의 **공개 결과물**, 홈페이지 팀 페이지 |
 | 정보 수정 방법 | [프로젝트 정보 수정 안내](CONTRIBUTING.md) |
 
