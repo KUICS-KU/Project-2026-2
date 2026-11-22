@@ -49,3 +49,5 @@
 ---
 
 [← 2팀](../team-02/) · [프로젝트 목록](../../README.md) · [4팀 →](../team-04/)
+
+소속 팀원은 [팀 저장소 보기·만들기](https://script.google.com/macros/s/AKfycbwtns7yDOVE-0kfdcy06GR2FuNAZD4lkCInuwqH2ZcmB2r_dSygvrFmn4V6ecztxIOpuA/exec?view=team-repos&team=3)에서 비공개 저장소에 접근할 수 있습니다.
